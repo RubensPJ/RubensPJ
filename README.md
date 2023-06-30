@@ -5,6 +5,9 @@ Flask and some friends like Javascript, CSS and HTML are known to me as well as 
 
 # 🏋️‍♂️ What Now?
 These days I'm trying to understand the usability of Cython on APIs optmization and on how it can improve this tools that I already use. 
+I have some other studies goes such as: 
+- AI usability on desktop tasks automations;
+- React;
 Oh ! I'm looking for a job currently as well, so please contact me if you have a challenge 💪. 
 
 # 👨‍💻 Technological Trinkets
