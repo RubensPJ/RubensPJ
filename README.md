@@ -8,6 +8,7 @@ These days I'm trying to understand the usability of Cython on APIs optmization 
 I have some other studies goes such as: 
 - AI usability on desktop tasks automations;
 - React;
+  
 Oh ! I'm looking for a job currently as well, so please contact me if you have a challenge 💪. 
 
 # 👨‍💻 Technological Trinkets
