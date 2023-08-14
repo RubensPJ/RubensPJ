@@ -17,7 +17,7 @@ Oh ! I'm looking for a job currently as well, so please contact me if you have a
 # 📊 GitHub Stats
 ![RubensPJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubensPJ&show_icons=true&theme=great-gatsby)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RubensPJ&repo=KeyDropBot&theme=great-gatsby)](https://github.com/RubensPJ/KeyDropBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RubensPJ&repo=hotwheelsCatalog&theme=great-gatsby)](https://github.com/RubensPJ/hotwheelsCatalog)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=google.com)](https://www.linkedin.com/in/rubens-paulino-junior-a34632127/)
