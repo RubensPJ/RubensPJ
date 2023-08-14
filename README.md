@@ -1,10 +1,10 @@
 # 👋 Hello Visitor!
 I'm Rubens but you can call me Junior! 
-I love making things easier with automations and there is no better tools nowadays then our beloved Python and it's children; Beautiful Soup, Scrapy and Selenium ! (With whom I'v been working with for about 3 years)
-Flask and some friends like Javascript, CSS and HTML are known to me as well as a bit of Django.
+I love making things easier with automations and there is no better tools nowadays then our Python (At least for me).
+ I love Flask and some others like Javascript, CSS and HTML are known to me as well as a bit of Django when needed.
 
 # 🏋️‍♂️ What Now?
-These days I'm trying to understand the usability of Cython on APIs optmization and on how it can improve this tools that I already use. 
+These days I'm about learning Deep Learning so I can proceed with some personal projects envolving web automations. 
 I have some other studies goes such as: 
 - AI usability on desktop tasks automations;
 - React;
